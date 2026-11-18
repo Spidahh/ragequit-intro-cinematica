@@ -1,0 +1,36 @@
+{
+  "start_seconds": {
+    "court": 0.0,
+    "throw": 0.75,
+    "drive": 1.625,
+    "press": 2.5625,
+    "cast": 3.2291666666666665,
+    "impact": 4.520833333333333,
+    "logo": 5.145833333333333
+  },
+  "total_frames": 349,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "48/1",
+        "nb_frames": "349"
+      },
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "avg_frame_rate": "0/0",
+        "nb_frames": "342"
+      }
+    ],
+    "format": {
+      "duration": "7.271000",
+      "size": "13116137"
+    }
+  }
+}
